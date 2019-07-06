@@ -1,0 +1,2 @@
+Add settings for which heads work
+setting to change success rate

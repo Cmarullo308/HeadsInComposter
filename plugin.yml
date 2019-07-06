@@ -1,0 +1,6 @@
+main: me.headsInComposter.main.Main
+name: HeadsInComposter
+author: CJM
+version: 1.0
+api-version: 1.14
+description: Gives player the ability to put heads/skulls in the composter
